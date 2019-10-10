@@ -1,0 +1,23 @@
+body{
+	background-image: url("sunset.jpg");
+	background-color: #e6ffff
+	background-position: center;
+	background-size: 1350px 640px;
+	opacity: 0.9;
+;
+}
+table{
+	position: center;
+	border: solid gray 2px;
+	background-color: #80d4ff;
+}
+th{
+	border-bottom: solid gray 2px;
+}
+td{
+	border-bottom: solid gray 2px;
+}
+th, td {
+    padding: 5px;
+    text-align: center;
+}

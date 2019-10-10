@@ -1,0 +1,53 @@
+body{
+	background-image: url("sunset.jpg");
+	background-color: #e6ffff;
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.9;
+
+}
+#srch{
+	border: solid #191970 2px;
+	width: 30%;
+	border-radius: 3px;
+	margin: 10px auto ;
+	background: #80d4ff;
+	padding: 50px;
+}
+
+#btn {
+
+    background-color: #f1f1f1;
+    color: black;
+    font-size: 16px;
+    padding: 16px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    text-align: center;
+   
+}
+#btn:hover {
+    background-color:#191970;
+    color: white;
+}
+
+
+#btn2 {
+
+    background-color: #f1f1f1;
+    color: black;
+    font-size: 16px;
+    padding: 16px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    text-align: center;
+    height: 40px;
+    width: 80%;
+}
+#btn2:hover {
+    background-color:#191970;
+    color: white;
+}
